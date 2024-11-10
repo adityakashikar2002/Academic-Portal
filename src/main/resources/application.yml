@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://aditya:admin@aditya409.1vvjn.mongodb.net/?retryWrites=true&w=majority&appName=aditya409
+      database: LindaDb
